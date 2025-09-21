@@ -5,3 +5,8 @@ elif n%3!=0:
     print("odd")
 else:
     print("not possible")
+if n%2==0:
+    print("even")
+else:
+    print("odd")
+
